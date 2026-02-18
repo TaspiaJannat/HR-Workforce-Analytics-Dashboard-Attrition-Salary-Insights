@@ -3,7 +3,7 @@
 This interactive dashboard was built entirely in **Microsoft Excel**, utilizing **Power Query** for data transformation and **Pivot Tables/DAX Measures** for in-depth HR workforce analysis.
 
 ## 🖥️ Dashboard Screenshot
-![HR Analytics Dashboard]([])
+![HR Analytics Dashboard]([IMG.png])
 
 ---
 
