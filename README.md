@@ -3,8 +3,8 @@
 This interactive dashboard was built entirely in **Microsoft Excel**, utilizing **Power Query** for data transformation and **Pivot Tables/DAX Measures** for in-depth HR workforce analysis.
 
 ## 🖥️ Dashboard Screenshot
-![HR Analytics Dashboard]([IMAGE_LINK_HERE])
-> *Tip: Upload your screenshot to GitHub and replace `[IMAGE_LINK_HERE]` with the image URL.*
+![HR Analytics Dashboard]([(https://github.com/TaspiaJannat/HR-Workforce-Analytics-Dashboard-Attrition-Salary-Insights/blob/main/IMG.png)])
+
 
 ---
 
